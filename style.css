@@ -108,4 +108,7 @@ body{
     .landing-page{
         background: url(./assets/images/background-pattern-desktop.svg);
     }
+    .content-box.active .content{
+        height: 80px;
+    }
 }
